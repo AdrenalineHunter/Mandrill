@@ -9,5 +9,4 @@ namespace Mandrill;
  */
 class MandrillInvalidEmptyDefaultPool extends MandrillError
 {
-
 }

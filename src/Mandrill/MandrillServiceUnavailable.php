@@ -7,5 +7,4 @@ namespace Mandrill;
  */
 class MandrillServiceUnavailable extends MandrillError
 {
-
 }

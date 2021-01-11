@@ -7,5 +7,4 @@ namespace Mandrill;
  */
 class MandrillInvalidTagName extends MandrillError
 {
-
 }

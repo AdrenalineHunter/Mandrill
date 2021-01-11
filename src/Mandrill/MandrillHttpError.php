@@ -2,7 +2,7 @@
 
 namespace Mandrill;
 
-class MandrillHttpError extends MandrillError {}
+class MandrillHttpError extends MandrillError
 {
 
 }

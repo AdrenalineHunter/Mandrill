@@ -8,5 +8,4 @@ namespace Mandrill;
  */
 class MandrillUnknownMetadataField extends MandrillError
 {
-
 }

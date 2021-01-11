@@ -7,5 +7,4 @@ namespace Mandrill;
  */
 class MandrillUnknownIP extends MandrillError
 {
-
 }

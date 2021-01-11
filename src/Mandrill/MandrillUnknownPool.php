@@ -8,5 +8,4 @@ namespace Mandrill;
  */
 class MandrillUnknownPool extends MandrillError
 {
-
 }

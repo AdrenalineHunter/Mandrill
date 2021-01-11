@@ -3,7 +3,7 @@
 namespace Mandrill;
 
 class Subaccounts {
-    public function __construct(Mandrill $master) {
+    public function __construct(\Mandrill $master) {
         $this->master = $master;
     }
 

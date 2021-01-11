@@ -3,7 +3,7 @@
 
 namespace Mandrill;
 
-class MandrillError extends \Exception {}
+class MandrillError extends \Exception
 {
 
 }

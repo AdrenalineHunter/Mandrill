@@ -9,5 +9,4 @@ namespace Mandrill;
  */
 class MandrillUnknownSubaccount extends MandrillError
 {
-
 }
